@@ -1,0 +1,23 @@
+removed
+com.coloros.phonemanager
+com.oplus.statistics.rom
+com.coloros.operationManual
+com.oplus.ocar
+com.oplus.appdetail
+com.coloros.remoteguardservice
+com.heytap.browser
+com.heytap.pictorial
+com.heytap.music
+com.nearme.instant.platform
+com.oplus.play:OplusQuickGame.apk::false
+com.nearme.gamecenter:Gamecenter.apk::false
+com.coloros.childrenspace:ChildrenSpace.apk::false
+com.coloros.familyguard:FamilyGuard.apk::false
+HeytapReader
+SogouInput_U_Product_Del
+com.heytap.health:Health.apk::false
+LinktoWindows.apk
+com.oneplus.brickmode:OPBreathMode.apk::false
+com.coloros.backuprestore:BackupAndRestore.apk::false
+to be removed
+my_product\app\BaiduInput_U_Product\BaiduInput_U_Product.apk
